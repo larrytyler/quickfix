@@ -1,0 +1,19 @@
+
+<?php
+include('quickfixclass.php');
+
+
+
+//create user instance
+
+$obj = new User;
+
+//reference logout method
+$obj->logout();
+
+
+
+
+
+
+?>
